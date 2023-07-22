@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 <hr/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexTaraskina&theme=dark&background=000000)](https://git.io/streak-stats)  
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexTaraskina&count_private=true&theme=tokyonight&showicons=true&hide=stars,issues)]()  
-  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexTaraskina&langs_count=5&theme=tokyonight)]()
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexTaraskina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
