@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет 👋
 
 <!--
 **alexTaraskina/alexTaraskina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexTaraskina&count_private=true&theme=tokyonight&showicons=true&hide=stars,issues)]()  
 -->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexTaraskina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
