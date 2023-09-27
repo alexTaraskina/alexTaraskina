@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexTaraskina&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexTaraskina&theme=dark&background=000000&locale=ru)](https://git.io/streak-stats)  
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexTaraskina&count_private=true&theme=tokyonight&showicons=true&hide=stars,issues)]()  
 -->
