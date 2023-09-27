@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <hr/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexTaraskina&locale=ru)](https://git.io/streak-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexTaraskina&count_private=true&theme=tokyonight&showicons=true&hide=stars,issues)]()  
 -->
