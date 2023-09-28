@@ -32,12 +32,11 @@ Here are some ideas to get you started:
 <hr/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexTaraskina&locale=ru)](https://git.io/streak-stats)
-
-<!--
+<hr/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexTaraskina?theme=dark&font=Londrina%20Solid)
+<hr/>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexTaraskina&count_private=true&theme=tokyonight&showicons=true&hide=stars,issues)]()  
--->
-<!--
+<hr/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexTaraskina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 
