@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexTaraskina&locale=ru)](https://git.io/streak-stats)
 <hr/>
-Задачи на LeetCode: 
-<br/>
+Задачи на LeetCode:  
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alexTaraskina?theme=dark%20Solid)](https://leetcode.com/alexTaraskina)
 
